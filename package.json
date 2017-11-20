@@ -17,6 +17,7 @@
   "license": "ISC",
   "dependencies": {
     "immutable": "^3.8.1",
+    "materialize-css": "^0.100.2",
     "mousetrap": "^1.6.1",
     "path": "^0.12.7",
     "react": "^15.6.1",
